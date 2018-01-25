@@ -1,0 +1,2 @@
+# hatebu_hotentry_scraper
+はてブのホッテントリをスクレイピングしてcsvに吐き出すだけのもの
